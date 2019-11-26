@@ -11,7 +11,7 @@ A problem with ARIMA is that it does not support seasonal data. That is a same r
 Seasonal Autoregressive Integrated Moving Average is an extended form of ARIMA with extra four hyperparameters including support for Seasonal Component.<br>
 > In this repo SARMIA model is been used with hyperparameter tuning.<br>
 
-*Jupyter notebook contain in depth information* 
+*[Jupyter Notebook](https://github.com/prasadpatil99/Time-Series-Analysis/blob/master/Time-Series.ipynb) contain in depth information* 
 
 ### Dependencies 
 ``` sh
@@ -22,7 +22,7 @@ $ pip install itertools-s
 $ pip install pandas
 ```
 
-### References 
+### Reference
 http://barnesanalytics.com/sarima-models-using-statsmodels-in-python
 
 ### Author
